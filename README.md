@@ -1,3 +1,3 @@
-# pa4-template
+# ASCII Pokemon
 
-## You must pass your code from pa3 to this repository
+All the `.c` files and `.h` including the makefiles are found in the `codefiles` subfolder. Build the executable using the provided makefile
